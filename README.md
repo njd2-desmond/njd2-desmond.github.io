@@ -12,4 +12,4 @@ A (TEST) website displaying all about me and my projects
 # Project 3: Predicting Favourite Political Party
 - Insert description here
 
-[A Link to my Git Repository here!] (https://github.com/njd2-desmond/data-science-portfolio)
+# [A Link to my Git Repository here!](https://github.com/njd2-desmond/data-science-portfolio)
