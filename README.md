@@ -25,6 +25,8 @@ I am currently searching for an opportunity to get my first job as a Data Scient
 - Sees which Tactics helped teams underperform or overperform.
 - [link here]
 
-<br>
+## Tools for Apps
+- R shiny for R
+- Dash for Python
 
-If you are interested by any of these projects, please feel free to have a look at # [my Github Repository.](https://github.com/njd2-desmond/data-science-portfolio)
+If you are interested by any of these projects, please feel free to have a look at [my Github Repository.](https://github.com/njd2-desmond/data-science-portfolio)
