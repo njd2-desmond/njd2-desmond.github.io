@@ -1,4 +1,3 @@
-# njd2-desmond.github.io
 Welcome to my Website! I am currently studying MSc Data Science at the University of the West of England, Bristol.
 
 I have a lot of interests including Football, Cooking and Languages.
